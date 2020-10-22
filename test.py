@@ -6,7 +6,7 @@
 
 import collections
 
-med = []
+med1 = []
 
 corps = collections.defaultdict(list)
 n = int(input('Введите количество предприятий: '))
