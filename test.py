@@ -29,4 +29,4 @@ for k, v in corps.items():
     if v[-1] > sum(med) / n:
         print(f'У компании {k} средняя прибыль ниже среднего')
 
-        #some changes in test.py file
+        #some changes for second branch in test.py file
