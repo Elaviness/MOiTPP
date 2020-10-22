@@ -28,4 +28,5 @@ for k, v in corps.items():
         print(f'У компании {k} средняя прибыль ниже среднего')
     if v[-1] > sum(med) / n:
         print(f'У компании {k} средняя прибыль ниже среднего')
-        
+
+        #some changes in test.py file
